@@ -1,3 +1,5 @@
 Hello world
 router A
 router B
+
+border gateway
